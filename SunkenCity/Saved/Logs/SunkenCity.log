@@ -3727,3 +3727,39 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.04.27-08.53.04:299][237]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Materials/M_Glass]
 [2022.04.27-08.53.04:312][237]LogSavePackage: Moving '../../../../../../Users/Erikn/Documents/GitHub/LevelDesignPart2/SunkenCity/Saved/M_Glass_Auto5E1A2FAED46C61A35974202A1CBF4483C.tmp' to '../../../../../../Users/Erikn/Documents/GitHub/LevelDesignPart2/SunkenCity/Saved/Autosaves/Game/StarterContent/Materials/M_Glass_Auto5.uasset'
 [2022.04.27-08.53.04:314][237]LogFileHelpers: Auto-saving content packages took 0.032
+[2022.04.27-08.53.37:603][336]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.04.27-08.53.38:660][336]LogSlate: Window 'Save Content' being destroyed
+[2022.04.27-08.53.38:713][336]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.04.27-08.53.38:834][336]LogSavePackage: Moving '../../../../../../Users/Erikn/Documents/GitHub/LevelDesignPart2/SunkenCity/Saved/FirstPersonExampleMap9A82DD9740F101EA61D674BFD1623FDD.tmp' to '../../../../../../Users/Erikn/Documents/GitHub/LevelDesignPart2/SunkenCity/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.04.27-08.53.38:847][336]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.158
+[2022.04.27-08.53.38:853][336]LogSavePackage: Moving '../../../../../../Users/Erikn/Documents/GitHub/LevelDesignPart2/SunkenCity/Saved/M_Glass938B8CB24FFAB5494E84DE80DC81D7B7.tmp' to '../../../../../../Users/Erikn/Documents/GitHub/LevelDesignPart2/SunkenCity/Content/StarterContent/Materials/M_Glass.uasset'
+[2022.04.27-08.53.38:938][336]LogSlate: Window 'SunkenCity - Unreal Editor' being destroyed
+[2022.04.27-08.53.39:985][336]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.27-08.53.39:985][336]LogContentValidation: Display: Validating Material /Game/StarterContent/Materials/M_Glass.M_Glass
+[2022.04.27-08.53.39:985][336]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.04.27-08.53.39:988][337]Cmd: QUIT_EDITOR
+[2022.04.27-08.53.39:988][337]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.04.27-08.53.40:016][337]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.04.27-08.53.40:918][337]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.04.27-08.53.40:918][337]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.04.27-08.53.40:918][337]LogAudio: Display: Audio Device unregistered from world 'FirstPersonExampleMap'.
+[2022.04.27-08.53.40:930][337]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.27-08.53.40:932][337]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.27-08.53.41:030][337]LogAudio: Display: Audio Device Manager Shutdown
+[2022.04.27-08.53.41:040][337]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.04.27-08.53.41:100][337]LogExit: Preparing to exit.
+[2022.04.27-08.53.41:443][337]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2022.04.27-08.53.42:403][337]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-08.53.42:406][337]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-08.53.42:409][337]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-08.53.42:652][337]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.04.27-08.53.43:017][337]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-08.53.43:028][337]LogExit: Editor shut down
+[2022.04.27-08.53.43:033][337]LogExit: Transaction tracking system shut down
+[2022.04.27-08.53.46:081][337]LogExit: Object subsystem successfully closed.
+[2022.04.27-08.53.46:099][337]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.04.27-08.53.46:099][337]LogShaderCompilers: Display: Total job queries 692, among them cache hits 470 (67.92%)
+[2022.04.27-08.53.46:099][337]LogShaderCompilers: Display: Tracking 105 distinct input hashes that result in 69 distinct outputs (65.71%)
+[2022.04.27-08.53.46:099][337]LogShaderCompilers: Display: RAM used: 0.56 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.07%
+[2022.04.27-08.53.46:099][337]LogShaderCompilers: Display: ================================================
+[2022.04.27-08.53.46:360][337]LogShaderCompilers: Display: Shaders left to compile 0
