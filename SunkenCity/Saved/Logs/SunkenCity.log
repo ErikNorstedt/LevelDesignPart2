@@ -3602,3 +3602,128 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.04.27-08.39.12:212][804]AssetCheck: New page: Asset Save: multiple assets
 [2022.04.27-08.39.12:212][804]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
 [2022.04.27-08.39.12:212][804]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.04.27-08.46.59:539][808]LogActorFactory: Actor Factory created Corner_1x1
+[2022.04.27-08.46.59:995][836]LogActorFactory: Actor Factory created Corner_1x1
+[2022.04.27-08.47.24:308][612]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint3)
+[2022.04.27-08.47.25:075][699]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Corner_1x3)
+[2022.04.27-08.47.26:093][805]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Corner_1x2)
+[2022.04.27-08.47.26:591][849]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Corner_1x3)
+[2022.04.27-08.47.45:559][239]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Corner_1x2)
+[2022.04.27-08.47.46:276][316]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Corner_1x3)
+[2022.04.27-08.47.48:378][559]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Corner_1x2)
+[2022.04.27-08.47.49:056][635]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Corner_1x3)
+[2022.04.27-08.47.52:213][939]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Corner_1x3)
+[2022.04.27-08.47.57:540][535]LogActorFactory: Actor Factory created Corner_4x1
+[2022.04.27-08.47.57:865][555]LogActorFactory: Actor Factory created Corner_4x1
+[2022.04.27-08.48.19:226][929]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint3)
+[2022.04.27-08.48.19:525][952]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere
+[2022.04.27-08.48.20:421][952]LogBlueprintEditor: Perf: 0.7 total seconds to load all 5 blueprint libraries in project. Avoid references to content in blueprint libraries to shorten this time.
+[2022.04.27-08.48.20:422][952]LogBlueprintEditor: Perf: 0.3 seconds loading: /Engine/ArtTools/RenderToTexture/Macros/RenderToTextureMacros
+[2022.04.27-08.48.22:022][952]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0031 seconds. Added 126 classes and 0 folders.
+[2022.04.27-08.48.26:284][102]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-08.48.26:284][102]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-08.48.27:211][162]LogSlate: Window 'M_Glass' being destroyed
+[2022.04.27-08.48.27:230][162]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2022.04.27-08.48.27:230][162]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.27-08.48.29:375][384]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Corner_4x62)
+[2022.04.27-08.48.30:512][472]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Corner_4x61)
+[2022.04.27-08.48.30:866][496]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Corner_4x62)
+[2022.04.27-08.48.31:166][518]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Corner_4x61)
+[2022.04.27-08.48.32:048][617]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Corner_4x62)
+[2022.04.27-08.48.36:970][173]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Corner_4x61)
+[2022.04.27-08.48.37:318][200]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Corner_4x62)
+[2022.04.27-08.48.39:281][403]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Corner_1x3)
+[2022.04.27-08.48.43:568][867]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Corner_1x2)
+[2022.04.27-08.48.44:054][921]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Corner_1x3)
+[2022.04.27-08.48.44:459][965]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Corner_1x2)
+[2022.04.27-08.48.45:041][ 30]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Corner_1x3)
+[2022.04.27-08.48.46:115][148]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.04.27-08.48.53:372][956]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Corner_1x3)
+[2022.04.27-08.48.54:079][ 35]Cmd: DELETE
+[2022.04.27-08.48.54:080][ 35]Cmd: ACTOR DELETE
+[2022.04.27-08.48.54:087][ 35]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.27-08.48.54:163][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2022.04.27-08.48.54:183][ 35]LogEditorActor: Deleted 1 Actors (0.103 secs)
+[2022.04.27-08.48.54:828][111]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Corner_1x2)
+[2022.04.27-08.48.54:905][116]Cmd: DELETE
+[2022.04.27-08.48.54:905][116]Cmd: ACTOR DELETE
+[2022.04.27-08.48.54:912][116]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.27-08.48.54:934][116]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2022.04.27-08.48.54:935][116]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2022.04.27-08.48.55:425][174]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Corner_1x1)
+[2022.04.27-08.48.55:772][211]Cmd: DELETE
+[2022.04.27-08.48.55:772][211]Cmd: ACTOR DELETE
+[2022.04.27-08.48.55:779][211]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.27-08.48.55:799][211]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.04.27-08.48.55:800][211]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2022.04.27-08.48.56:218][260]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Corner_4x61)
+[2022.04.27-08.48.56:459][284]Cmd: DELETE
+[2022.04.27-08.48.56:459][284]Cmd: ACTOR DELETE
+[2022.04.27-08.48.56:466][284]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.27-08.48.56:486][284]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.04.27-08.48.56:486][284]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2022.04.27-08.48.57:048][351]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Corner_4x60)
+[2022.04.27-08.48.57:244][370]Cmd: DELETE
+[2022.04.27-08.48.57:244][370]Cmd: ACTOR DELETE
+[2022.04.27-08.48.57:252][370]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.27-08.48.57:272][370]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.04.27-08.48.57:273][370]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2022.04.27-08.48.57:776][430]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Corner_4x62)
+[2022.04.27-08.48.58:071][461]Cmd: DELETE
+[2022.04.27-08.48.58:071][461]Cmd: ACTOR DELETE
+[2022.04.27-08.48.58:078][461]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.27-08.48.58:098][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.04.27-08.48.58:099][461]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2022.04.27-08.49.13:788][848]LogActorFactory: Actor Factory created Corner_2x1
+[2022.04.27-08.49.14:076][866]LogActorFactory: Actor Factory created Corner_2x1
+[2022.04.27-08.49.16:408][133]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor3)
+[2022.04.27-08.49.17:040][204]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Corner_2x2)
+[2022.04.27-08.49.55:247][883]LogActorFactory: Actor Factory created Wall_4x1
+[2022.04.27-08.49.55:586][907]LogActorFactory: Actor Factory created Wall_4x1
+[2022.04.27-08.49.57:510][ 95]LogActorFactory: Actor Factory created Wall_4x2
+[2022.04.27-08.49.57:989][130]LogActorFactory: Actor Factory created Wall_4x2
+[2022.04.27-08.50.05:176][936]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_4x1)
+[2022.04.27-08.50.08:313][251]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_4x71)
+[2022.04.27-08.50.08:933][320]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_4x1)
+[2022.04.27-08.50.15:193][ 28]Cmd: DELETE
+[2022.04.27-08.50.15:193][ 28]Cmd: ACTOR DELETE
+[2022.04.27-08.50.15:200][ 28]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.27-08.50.15:225][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2022.04.27-08.50.15:239][ 28]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2022.04.27-08.50.16:603][190]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Corner_2x3)
+[2022.04.27-08.50.17:047][238]Cmd: DELETE
+[2022.04.27-08.50.17:047][238]Cmd: ACTOR DELETE
+[2022.04.27-08.50.17:054][238]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.27-08.50.17:074][238]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.04.27-08.50.17:075][238]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2022.04.27-08.50.17:383][275]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Corner_2x2)
+[2022.04.27-08.50.17:511][286]Cmd: DELETE
+[2022.04.27-08.50.17:511][286]Cmd: ACTOR DELETE
+[2022.04.27-08.50.17:518][286]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.27-08.50.17:538][286]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.04.27-08.50.17:539][286]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2022.04.27-08.50.18:004][341]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Corner_2x1)
+[2022.04.27-08.50.18:107][349]Cmd: DELETE
+[2022.04.27-08.50.18:107][349]Cmd: ACTOR DELETE
+[2022.04.27-08.50.18:114][349]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.27-08.50.18:134][349]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.04.27-08.50.18:135][349]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2022.04.27-08.50.18:718][418]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_4x71)
+[2022.04.27-08.50.18:908][436]Cmd: DELETE
+[2022.04.27-08.50.18:909][436]Cmd: ACTOR DELETE
+[2022.04.27-08.50.18:915][436]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.27-08.50.18:935][436]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.04.27-08.50.18:936][436]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2022.04.27-08.50.44:194][954]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Window_4x118)
+[2022.04.27-08.51.00:841][771]Cmd: SELECT NONE
+[2022.04.27-08.51.52:587][ 25]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.04.27-08.52.55:000][210]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.04.27-08.53.04:131][237]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.04.27-08.53.04:277][237]LogSavePackage: Moving '../../../../../../Users/Erikn/Documents/GitHub/LevelDesignPart2/SunkenCity/Saved/FirstPersonExampleMap_Auto534843BED426FC4B1EA1EACBB7E61AA3A.tmp' to '../../../../../../Users/Erikn/Documents/GitHub/LevelDesignPart2/SunkenCity/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto5.umap'
+[2022.04.27-08.53.04:281][237]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.185
+[2022.04.27-08.53.04:281][237]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.185
+[2022.04.27-08.53.04:283][237]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Materials/M_Glass] ([1] browsable assets)...
+[2022.04.27-08.53.04:299][237]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Materials/M_Glass.M_Glass]
+[2022.04.27-08.53.04:299][237]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Materials/M_Glass]
+[2022.04.27-08.53.04:312][237]LogSavePackage: Moving '../../../../../../Users/Erikn/Documents/GitHub/LevelDesignPart2/SunkenCity/Saved/M_Glass_Auto5E1A2FAED46C61A35974202A1CBF4483C.tmp' to '../../../../../../Users/Erikn/Documents/GitHub/LevelDesignPart2/SunkenCity/Saved/Autosaves/Game/StarterContent/Materials/M_Glass_Auto5.uasset'
+[2022.04.27-08.53.04:314][237]LogFileHelpers: Auto-saving content packages took 0.032
